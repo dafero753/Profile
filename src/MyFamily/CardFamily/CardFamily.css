@@ -1,0 +1,37 @@
+.CardFamily{
+    border: 1px solid rgb(118, 194, 18);
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.name{
+    border: 1px solid rgb(160, 21, 39);
+    width: 50%;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rel{
+    border: 1px solid rgb(151, 197, 235);
+    width: 50%;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aja{
+    border: 1px solid rgb(151, 197, 235);
+    width: 50%;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
